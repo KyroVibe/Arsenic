@@ -1,0 +1,13 @@
+CMakeCache.txt
+cmake-build-debug/
+.idea/
+deps/glew-2.2.0/
+build/
+bin/
+lib/
+Testing/
+CMakeFiles/
+
+Makefile
+cmake_install.cmake
+
